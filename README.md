@@ -1,6 +1,8 @@
 # 🎓 InterGuide AI
 
 > An AI-powered internship discovery and career development platform that helps students and early-career professionals find, prepare for, and track internship opportunities — all in one place.
+>
+> Link to APP:https://internship.w-3b.tech/
 
 ---
 
